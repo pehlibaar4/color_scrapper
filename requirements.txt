@@ -1,0 +1,3 @@
+requestium
+bs4
+undetected_chromedriver
